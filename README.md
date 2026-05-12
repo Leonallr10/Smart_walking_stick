@@ -40,6 +40,11 @@ To schedule tasks in the most efficient possible way. This will make the entire 
 ### Lets enable the guard to envision where the blind person is using a mobile app
 This helps safety features about the device coupled with keeping the caregivers updated.
 
+### Guardian Live Tracking and Emergency Alert System
+
+The guardian can track the live location of the user through the dashboard by receiving real-time GPS coordinates from the smart blind stick. When the user presses the emergency trigger button, the system sends an alert notification to the guardian along with the user’s current location, enabling quick support during emergency situations.
+
+Live Guardian Dashboard: https://leonallr10.github.io/dashboard-for-guardian-/
 
 ## Main Objectives
 - Comprehensive environmental awareness and navigation assistance
@@ -48,7 +53,7 @@ This helps safety features about the device coupled with keeping the caregivers 
 - Clear, private audio feedback
 - Real-time, AI-powered navigation
 - Energy-efficient operation
-
+-- Enable guardians to monitor the user’s live location and receive emergency alert notifications with GPS coordinates.
 ## Algorithm Overview
 1. Scan environment (rotate sensor, capture images)
 2. Detect objects and obstacles
