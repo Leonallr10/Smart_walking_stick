@@ -40,6 +40,22 @@ To schedule tasks in the most efficient possible way. This will make the entire 
 ### Lets enable the guard to envision where the blind person is using a mobile app
 This helps safety features about the device coupled with keeping the caregivers updated.
 
+## Mobile Assistive Application for Visually Impaired Users
+
+If the user is not comfortable using the smart walking stick, they can alternatively use a mobile application designed for assistive navigation and accessibility support.
+
+### Key Features of the Mobile Application
+- Voice-command based interaction for hands-free usage
+- Real-time object detection using AI
+- Indoor navigation and mapping assistance
+- Scene and object description through audio feedback
+- Live location tracking and sharing with guardians
+- Emergency alert system for user safety
+
+The application is designed to provide an independent and accessible navigation experience directly from the smartphone without requiring the physical smart stick hardware.
+
+Assistive Navigator App:
+https://leonallr10.github.io/assistive-navigator/
 ### Guardian Live Tracking and Emergency Alert System
 
 The guardian can track the live location of the user through the dashboard by receiving real-time GPS coordinates from the smart blind stick. When the user presses the emergency trigger button, the system sends an alert notification to the guardian along with the user’s current location, enabling quick support during emergency situations.
@@ -60,6 +76,7 @@ Live Guardian Dashboard: https://leonallr10.github.io/dashboard-for-guardian-/
 3. Process location and plan routes
 4. Provide audio feedback to user
 5. Manage data between ESP32 and Raspberry Pi 5
+6. Provide a smartphone-based assistive navigation alternative with voice-controlled AI features for users who are not comfortable using the smart stick.
 
 ## Component Uses
 1. **Raspberry Pi 5**: AI processing, system control, navigation
